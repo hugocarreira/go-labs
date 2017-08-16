@@ -7,12 +7,12 @@ https://golang.org/dl/
 
 ### Extract  
 ```
-tar xvf filename.tar.gz  
+$ tar xvf filename.tar.gz  
 ```  
 ### Permissions
 ```
-sudo chown -R root:root ./go
-sudo mv go /usr/local
+$ sudo chown -R root:root ./go
+$ sudo mv go /usr/local
 ```  
 
 ### Settings GoPath
